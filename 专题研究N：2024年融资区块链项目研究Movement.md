@@ -3,6 +3,9 @@
 
 按：融资的项目作一个专题研究：1、融资了，说明得到资本界看好，可能是一个好的方向和项目；2、通过研究它们，可以了解外界或圈内人对这个行业的判断，是一种研究区块链发展趋势的捷径和正确的路；3、之前的区块链人物、项目系列研究也基本是追一些热点或按版块研究，已有1000期；基本也将常见的项目和区块链人物研究的差不多；正好可以告一段落（前期落下的一些已计划的还要继续，在1000期以内）；4、基于推特是目前区块链信息最集中和更新快的平台，还依托于此来研究相应的融资项目。5、2024年2月份，硬盘损坏；前期约有3600期（已发布约2000期）资料丢失；现未再续编号。
 
+PANews  2025年 1月8日消息，据Fortune报道，专注于以太坊Layer 2区块链开发的Movement Labs正接近完成1亿美元的B轮融资，预计估值达30亿美元。本轮融资由CoinFund和Nova Fund（Brevan Howard数字资产部门）联合领投，投资者将获得公司股份及其代币Move，重点在于代币形式。Movement Labs此前于2024年4月完成3800万美元A轮融资，由Polychain Capital领投。本轮融资的完成预计将于1月底实现。
+Movement基于Facebook开发的Move编程语言，区别于独立公链Aptos和Sui，采用Layer 2结构，充分利用以太坊生态系统。其主网测试版及Move代币已于2024年12月推出，Move目前市值约22.5亿美元，自推出以来已近翻倍。
+
 PANews 4月25日消息，据CoinDesk报道，由年轻创业者Cooper Scanlon和Rushi Manche联合创立的专注于构建以太坊 L2 区块链的 Movement Labs 宣布完成 3800 万美元 A 轮融资，Polychain Capital 领投，Hack VC、Placeholder、Archetype、Maven 11、Robot Ventures、Figment Capital、Nomad Capital、Bankless Ventures、OKX Ventures、dao5以及Aptos Labs参投。
 Movement L2是一个基于Move编程范式的以太坊Layer-2区块链。此外，Movement Labs还介绍了Move Stack——一个兼容性强的区块链执行环境，可用于构建其他链，并计划在今年夏天进入测试网阶段。该公司还计划推出自己的代币，暂定名为 MOVE。
 
