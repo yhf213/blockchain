@@ -18,7 +18,8 @@ Contact 0xkofe ，avalonfinance.xyz，2024年2月 加入，
 148 正在关注，，
 14.2万 关注者，
 
-
+PANews 12月23日消息，据CoinDesk报道，比特币支持的稳定币USDa发行商Avalon Labs完成了1000万美元的A轮融资，以扩大其比特币去中心化金融（DeFi）生态系统。该轮融资由Framework Ventures领投，UXTO Management、Presto Labs和Kenetic Capital参与。
+Avalon Labs致力于将比特币从数字储值工具转型为更活跃的金融工具，为用户提供包括稳定币USDa、比特币支持的借贷、收益生成储蓄账户和信用卡等服务。用户可通过以固定8%的借贷利率抵押BTC来获取USDa代币，目前USDa的总锁仓量（TVL）已达7亿美元。
 
 已置顶：随着
 @BNBchain

@@ -3,6 +3,10 @@
 
 按：融资的项目作一个专题研究：1、融资了，说明得到资本界看好，可能是一个好的方向和项目；2、通过研究它们，可以了解外界或圈内人对这个行业的判断，是一种研究区块链发展趋势的捷径和正确的路；3、之前的区块链人物、项目系列研究也基本是追一些热点或按版块研究，已有1000期；基本也将常见的项目和区块链人物研究的差不多；正好可以告一段落（前期落下的一些已计划的还要继续，在1000期以内）；4、基于推特是目前区块链信息最集中和更新快的平台，还依托于此来研究相应的融资项目。5、2024年2月份，硬盘损坏；前期约有3600期（已发布约2000期）资料丢失；现未再续编号。
 
+PANews 12月13日消息，据The Block报道，Solana生态代币化平台AgriDex完成400万美元战略融资，Portal Ventures领投，Endeavour Ventures、Hawkwood Capital、HU Investments、FS Ventures和Sycamore Gap Management Ltd. Company参投。参与此轮融资的天使投资者包括Palantir的Tobechi Bolanle Taiwo、Perena的Anna Yuan、Crypto Rand和Michaël van de Poppe。该轮融资由股权和代币混合组成，AgriDex的估值为2850万美元。
+据介绍，AgriDex是一家基于Solana、专注于农产品的代币化平台。此轮融资后，AgriDex计划将45亿美元的贸易承诺代币化，扩大至西非可可和东欧小麦等新商品领域，同时与Plume Network合作提供贸易融资贷款支持农业订单。
+此前5月份消息，AgriDex完成500万美元pre-seed轮融资。
+
 PANews 5月9日消息，据The Block报道，基于Solana的代币化平台AgriDex在pre-seed轮成功筹集了500万美元。本轮融资由专注于科技的风险投资公司Endeavor Ventures领投，参投方包括African Crops Limited、Oldenburg Vineyards以及前高盛和Citadel高管Hank Oberoi。此次融资后，AgriDex的估值约为1800万美元。Endeavor Ventures的联合创始人兼CEO Bill Cunningham也将加入AgriDex的董事会。
 AgriDex计划在今年第三季度推出其平台和代币AGRI，并在未来几个月内对社区进行代币空投，空投总量为代币总供应量的5%（即10亿中的5000万枚）。此外，AgriDex还计划以每个代币0.10美元的价格公开发售其代币，并将使用50%的利润进行代币回购并销毁，以增加代币稀缺性并提升其价值。利润将按季度累积，回购过程将每天进行。总部位于伦敦的AgriDex目前有近20名员工，并计划根据业务扩展的需要增加团队规模。
 

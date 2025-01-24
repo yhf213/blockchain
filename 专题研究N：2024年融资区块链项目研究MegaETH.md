@@ -3,6 +3,9 @@
 
 按：融资的项目作一个专题研究：1、融资了，说明得到资本界看好，可能是一个好的方向和项目；2、通过研究它们，可以了解外界或圈内人对这个行业的判断，是一种研究区块链发展趋势的捷径和正确的路；3、之前的区块链人物、项目系列研究也基本是追一些热点或按版块研究，已有1000期；基本也将常见的项目和区块链人物研究的差不多；正好可以告一段落（前期落下的一些已计划的还要继续，在1000期以内）；4、基于推特是目前区块链信息最集中和更新快的平台，还依托于此来研究相应的融资项目。5、2024年2月份，硬盘损坏；前期约有3600期（已发布约2000期）资料丢失；现未再续编号。
 
+PANews 12月14日消息，据 The Block 报道，MegaETH 开发商 MegaLabs 通过 Echo 平台完成 1000 万美元融资。MegaLabs 联合创始人 Shuyao Kong 表示，此轮融资的结构为股权加代币认股权证，与 MegaLabs 6 月份的 2000 万美元种子轮融资相同，两轮融资的估值都是“9 位数”。Kong 表示，尽管场外交易 (OTC) 市场对 MegaLabs 的估值“明显更高”，但 Echo 轮融资的估值保持不变，以优先考虑去中心化和社区参与。
+此前消息，MegaETH的开发商MegaLabs完成2000万美元种子轮融资，Dragonfly领投，Vitalik等参投。
+
 PANews 6月27日消息，据The Block报道，新区块链MegaETH的开发商MegaLabs宣布完成2000万美元种子轮融资，Dragonfly领投，Figment Capital、Robot Ventures、Big Brain Holdings等公司参投，此轮融资的天使投资者包括E以太坊联合创始人Vitalik Buterin、ConsenSys创始人兼首席执行官Joseph Lubin、EigenLayer创始人兼首席执行官Sreeram Kannan、ETHGlobal联合创始人Kartik Talwar、Helius Labs联合创始人兼首席执行官Mert Mumtaz、Santiago Santos、Hasu和Jordan Fish（又名Cobie）。
 MegaLabs联合创始人兼首席商务官Shuyao Kong表示，该公司去年12月开始为种子轮融资，并于5月结束融资。Kong 表示，这轮融资采用股权加代币认股权证的结构，使MegaETH的完全摊薄代币估值达到“9位数”，这意味着至少1亿美元。
 据介绍，MegaLabs成立于2023年初，创始人是Consensys前全球业务发展主管Shuyao Kong、以及拥有斯坦福大学计算机科学博士学位、曾在软件公司Runtime Verification Inc.工作的Yilong Li。Kong补充说，他仍继续担任Consensys的顾问。MegaETH的两项关键技术——异构区块链架构和“超优化”的EVM执行环境——帮助它实时实现100,000 TPS。MegaETH的公共测试网将于初秋上线，主网预计于年底上线。当被问及MegaETH的原生代币是否会与主网同时推出时，Kong表示尚未做出决定。

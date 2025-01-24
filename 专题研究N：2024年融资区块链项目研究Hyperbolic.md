@@ -3,6 +3,10 @@
 
 按：融资的项目作一个专题研究：1、融资了，说明得到资本界看好，可能是一个好的方向和项目；2、通过研究它们，可以了解外界或圈内人对这个行业的判断，是一种研究区块链发展趋势的捷径和正确的路；3、之前的区块链人物、项目系列研究也基本是追一些热点或按版块研究，已有1000期；基本也将常见的项目和区块链人物研究的差不多；正好可以告一段落（前期落下的一些已计划的还要继续，在1000期以内）；4、基于推特是目前区块链信息最集中和更新快的平台，还依托于此来研究相应的融资项目。5、2024年2月份，硬盘损坏；前期约有3600期（已发布约2000期）资料丢失；现未再续编号。
 
+PANews 12月10日消息，
+开放式AI云服务提供商Hyperbolic
+宣布完成1200万美元A轮融资，本轮由Polychain Capital和Variant领投，IOSG Ventures、Wintermute、GSR、Chapter One、Bankless Ventures和Faction等参投。Hyperbolic Labs是一家开放式AI云平台，专注于提供GPU资源和AI服务。
+
 PANews 7月30日消息，据官方公告，Hyperbolic完成700万美元种子轮融资，旨在成为领先的开放式AI云服务提供商。此轮融资由Polychain Capital和Lightspeed Faction领投，Chapter One、LongHash、Bankless Ventures、Republic Digital、Nomad Capital、CoinSummer Labs和Third Earth Capital等参与。资金将用于推进Hyperbolic的开放式AI云平台的发展，包括招聘关键工程师和为开发者创建支持生态系统。
 Hyperbolic计划通过整合全球GPU计算资源，并利用区块链技术，提供可验证且安全的AI服务，以解决计算资源成本和分配的行业瓶颈问题。Hyperbolic的首款产品是一种AI推理服务，承诺以更低的成本提供高性能。其创新方法使用“异构计算”技术，优化跨各种硬件的张量运算器，允许开发者通过简单的API调用访问强大的开源AI模型。此外，Hyperbolic正在建立一个GPU市场，提供直观且自动化的界面供用户租用和供应GPU，并通过其去中心化编排层Hyper-dOS（Hyperbolic分布式操作系统）支持。
 
